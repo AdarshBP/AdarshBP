@@ -6,8 +6,14 @@
   <a href="https://www.linkedin.com/in/adarsh-bp">Linkedin</a>
 </p>
 
+<div style="text-align:center">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+</div>
+
+<br>
+
 - 🔭 I’m currently working at [Mercedes benz research and development India](https://www.mbrdi.co.in/#/)
-- 🌱 I’m currently learning LLM , Go , Kubernetes
+- 🌱 I’m currently learning LLM , Go 
 - 🔭  I’m currently working on something cool 😉
 - 💬 Ask me about **webdevelopment and technology**
 
