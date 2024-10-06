@@ -13,6 +13,7 @@
 <br>
 
 - 🔭 I’m currently working at [Mercedes benz research and development India](https://www.mbrdi.co.in/#/)
+- 🌱 Side hustel at https://inno-dev-connect.vercel.app/ 
 - 🌱 I’m currently learning LLM , Go Lang , Kubernetes
 - 🔭  I’m currently working on something cool 😉
 - 💬 Ask me about **webdevelopment and technology**
