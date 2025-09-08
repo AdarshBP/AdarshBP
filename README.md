@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="https://dev.to/adarshbp">Blog</a> •
-  <a href="https://www.linkedin.com/in/adarsh-bp">Linkedin</a>
+  <a href="https://www.linkedin.com/in/adarsh-bp">Linkedin</a> •
+  <a href="https://adarshbp.vercel.app">Portfolio</a>
 </p>
 
 <div align="center" style="text-align:center">
